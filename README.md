@@ -1,4 +1,4 @@
-# Travel
+
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
